@@ -6,7 +6,7 @@ header,
 }
 
 #intro {
-    background: url("../myimg/pano.jpg")no-repeat center center fixed;
+    background: url("../myimg/bb.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -14,15 +14,33 @@ header,
 }
 
 .top-nav-collapse {
-    background-color:darkslategrey;
+    background-color:#34495E  ;
   }
   @media (max-width: 768px) {
     .navbar:not(.top-nav-collapse) {
-      background-color: darkslategrey;
+      background-color:#34495E  ;
     }
   }
   @media (min-width: 800px) and (max-width: 850px) {
     .navbar:not(.top-nav-collapse) {
-      background-color:darkslategrey;
+      background-color: #34495E;
     }
   }
+
+
+    
+
+
+#profile-section{
+    padding-top: 30px;
+    
+}
+#my-progress{
+    padding-top: 30px;
+}
+#contact-me{
+    padding-top: 70px;
+}
+.third-row{
+    padding-top: 30px;
+}
